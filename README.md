@@ -1,12 +1,15 @@
-# WatirJquery
+# jQuery selectors for your Watir tests 
 
-Use jQuery selectors in your Watir tests
+watir-jquery allows you to use the jQuery selectors you already know and love from with your Watir tests.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
     gem 'watir-jquery'
+or
+    gem 'watir-jquery', :git => 'git://github.com/olore/watir-jquery.git'
+
 
 And then execute:
 
